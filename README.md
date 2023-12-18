@@ -36,6 +36,12 @@ Exploratory Data Insights
 
 <img width="210" alt="image" src="https://github.com/OmkarS12/Disease-Prediction-Tool-BRFSS-Medicaid-Database/assets/122317280/37e3636f-80ea-4e60-9d65-425e336ecdd5">
 
+<img width="214" alt="image" src="https://github.com/OmkarS12/Disease-Prediction-Tool-BRFSS-Medicaid-Database/assets/122317280/2ee8c931-8b28-40f6-8644-c852e4e6e71a">
+
+<img width="201" alt="image" src="https://github.com/OmkarS12/Disease-Prediction-Tool-BRFSS-Medicaid-Database/assets/122317280/d0179127-b32d-48d7-ad29-5d327a49cfba">
+
+<img width="470" alt="image" src="https://github.com/OmkarS12/Disease-Prediction-Tool-BRFSS-Medicaid-Database/assets/122317280/a24a20ea-85ae-405c-9ef7-2eb2f6de9a22">
+
 Feature Importances based on Behavioral Factors
 
 <img width="136" alt="image" src="https://github.com/OmkarS12/Disease-Prediction-Tool-BRFSS-Medicaid-Database/assets/122317280/e61146ae-dd6c-4d6e-87b1-1a3424cf4066">
