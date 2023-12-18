@@ -30,18 +30,13 @@ Each variable/question in the BRFSS dataset is described briefly below:
 24.	Race: The race/ethnicity of the respondent is indicated by this attribute.
 25.	SkinCancer: This binary variable asks if the respondent has ever been advised by a medical expert that they have skin cancer.
 
-    
-![image](https://github.com/OmkarS12/Disease-Prediction-Tool-BRFSS-Medicaid-Database/assets/122317280/41e33896-0678-4aa5-b549-190bba96eba8)
-
 Exploratory Data Insights
-
 
 <img width="213" alt="image" src="https://github.com/OmkarS12/Disease-Prediction-Tool-BRFSS-Medicaid-Database/assets/122317280/a44577d5-56b5-4791-9482-1b84360b606f">
 
 <img width="210" alt="image" src="https://github.com/OmkarS12/Disease-Prediction-Tool-BRFSS-Medicaid-Database/assets/122317280/37e3636f-80ea-4e60-9d65-425e336ecdd5">
 
 Feature Importances based on Behavioral Factors
-
 
 <img width="136" alt="image" src="https://github.com/OmkarS12/Disease-Prediction-Tool-BRFSS-Medicaid-Database/assets/122317280/e61146ae-dd6c-4d6e-87b1-1a3424cf4066">
 
